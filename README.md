@@ -6,7 +6,7 @@ This is a guessing game where players try to identify Pokémon by the outline of
 
 ______________
 
-* How the game Works
+_How the game Works:_
 ________________________
 * You're shown a outline of a Pokémon.
 
