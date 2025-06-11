@@ -7,7 +7,7 @@ This is a guessing game where players try to identify Pokémon by the outline of
 ______________
 
 _How the game Works:_
-________________________
+
 * You're shown a outline of a Pokémon.
 
 * Type your guess into the input field and submit.
